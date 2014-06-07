@@ -1,0 +1,101 @@
+[submodule "glfw"]
+    path = deps/glfw
+    url = https://github.com/glfw/glfw
+[submodule "iqm"]
+    path = deps/iqm
+    url = https://github.com/lsalzman/iqm
+[submodule "glm"]
+    path = deps/glm
+    url = https://github.com/g-truc/glm
+[submodule "bullet3"]
+    path = deps/bullet3
+    url = https://github.com/bulletphysics/bullet3
+[submodule "glew"]
+    path = deps/glew
+    url = https://github.com/HeliumProject/glew
+
+[submodule "SFML"]
+    path = deps/SFML
+    url = https://github.com/LaurentGomila/SFML
+[submodule "SDL2"]
+    path = deps/SDL2
+    url = https://github.com/spurious/SDL-mirror
+[submodule "openframeworks"]
+    path = deps/openframeworks
+    url = https://github.com/openframeworks/openframeworks
+[submodule "regal"]
+    path = deps/regal
+    url = https://github.com/p3/regal
+[submodule "ClanLib"]
+    path = deps/ClanLib
+    url = https://github.com/sphair/ClanLib
+
+[submodule "auth"]
+    path = deps/auth
+    url = https://github.com/r-lyeh/auth
+[submodule "base91x"]
+    path = deps/base91x
+    url = https://github.com/r-lyeh/base91x
+[submodule "bundle"]
+    path = deps/bundle
+    url = https://github.com/r-lyeh/bundle
+[submodule "cocoa"]
+    path = deps/cocoa
+    url = https://github.com/r-lyeh/cocoa
+[submodule "dessert"]
+    path = deps/dessert
+    url = https://github.com/r-lyeh/dessert
+[submodule "dot"]
+    path = deps/dot
+    url = https://github.com/r-lyeh/dot
+[submodule "duty"]
+    path = deps/duty
+    url = https://github.com/r-lyeh/duty
+[submodule "fsm"]
+    path = deps/fsm
+    url = https://github.com/r-lyeh/fsm
+[submodule "heal"]
+    path = deps/heal
+    url = https://github.com/r-lyeh/heal
+[submodule "id"]
+    path = deps/id
+    url = https://github.com/r-lyeh/id
+[submodule "knot"]
+    path = deps/knot
+    url = https://github.com/r-lyeh/knot
+[submodule "kult"]
+    path = deps/kult
+    url = https://github.com/r-lyeh/kult
+[submodule "live"]
+    path = deps/live
+    url = https://github.com/r-lyeh/live
+[submodule "medea"]
+    path = deps/medea
+    url = https://github.com/r-lyeh/medea
+[submodule "memo"]
+    path = deps/memo
+    url = https://github.com/r-lyeh/memo
+[submodule "oak"]
+    path = deps/oak
+    url = https://github.com/r-lyeh/oak
+[submodule "sand"]
+    path = deps/sand
+    url = https://github.com/r-lyeh/sand
+[submodule "sentry"]
+    path = deps/sentry
+    url = https://github.com/r-lyeh/sentry
+[submodule "sole"]
+    path = deps/sole
+    url = https://github.com/r-lyeh/sole
+[submodule "sqlight"]
+    path = deps/sqlight
+    url = https://github.com/r-lyeh/sqlight
+[submodule "vault"]
+    path = deps/vault
+    url = https://github.com/r-lyeh/vault
+[submodule "wave"]
+    path = deps/wave
+    url = https://github.com/r-lyeh/wave
+[submodule "wire"]
+    path = deps/wire
+    url = https://github.com/r-lyeh/wire
